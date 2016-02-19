@@ -1,0 +1,2 @@
+# linseoppgave
+Øvingsoppgave i SDP
